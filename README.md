@@ -1,2 +1,2 @@
 # wirehidersga.github.io
-source for http://www.wirehidersga.com/
+This is the source for http://www.wirehidersga.com/
