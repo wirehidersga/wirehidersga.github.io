@@ -7,11 +7,11 @@ This is the source for http://www.wirehidersga.com/
 	
 ### 2. Clone the repository
 
-	Download Git -> [git-downloads](https://git-scm.com/downloads)
-	
-	Either use the GUI or type in console: 
-	
-	`git clone https://github.com/wirehidersga/wirehidersga.github.io.git`
+Download Git -> [git-downloads](https://git-scm.com/downloads)
+
+Either use the GUI or type in console: 
+
+`git clone https://github.com/wirehidersga/wirehidersga.github.io.git`
 
 ### 3. Make your changes
 
